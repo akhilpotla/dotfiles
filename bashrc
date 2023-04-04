@@ -12,3 +12,5 @@ alias ll="ls -alh"
 
 export EDITOR="vim"
 export SVN_EDITOR="vim"
+
+alias python="python3"
