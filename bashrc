@@ -14,3 +14,5 @@ export EDITOR="vim"
 export SVN_EDITOR="vim"
 
 alias python="python3"
+
+export PATH="$PATH:/Users/akhilpotla/.foundry/bin"
